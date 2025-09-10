@@ -1,0 +1,184 @@
+Suspicious address found: 0x337f3fb97657b542ec3f182a488b7f7feba8bc0e (2 total votes, first vote not on Prop 289)
+{
+  id: '0x337f3fb97657b542ec3f182a488b7f7feba8bc0e-279',
+  proposal: { id: '279' },
+  voter: { id: '0x337f3fb97657b542ec3f182a488b7f7feba8bc0e' }
+}
+{
+  id: '0x337f3fb97657b542ec3f182a488b7f7feba8bc0e-289',
+  proposal: { id: '289' },
+  voter: { id: '0x337f3fb97657b542ec3f182a488b7f7feba8bc0e' }
+}
+
+Suspicious address found: 0x48804e458d7a779c5fd2ce757876dabdc9ce422c (4 total votes, first vote WAS on Prop 289)
+{
+  id: '0x48804e458d7a779c5fd2ce757876dabdc9ce422c-289',
+  proposal: { id: '289' },
+  voter: { id: '0x48804e458d7a779c5fd2ce757876dabdc9ce422c' }
+}
+{
+  id: '0x48804e458d7a779c5fd2ce757876dabdc9ce422c-409',
+  proposal: { id: '409' },
+  voter: { id: '0x48804e458d7a779c5fd2ce757876dabdc9ce422c' }
+}
+{
+  id: '0x48804e458d7a779c5fd2ce757876dabdc9ce422c-455',
+  proposal: { id: '455' },
+  voter: { id: '0x48804e458d7a779c5fd2ce757876dabdc9ce422c' }
+}
+{
+  id: '0x48804e458d7a779c5fd2ce757876dabdc9ce422c-462',
+  proposal: { id: '462' },
+  voter: { id: '0x48804e458d7a779c5fd2ce757876dabdc9ce422c' }
+}
+
+Suspicious address found: 0xc153a898808654584a2276bfe9e8ba62aded4137 (2 total votes, first vote WAS on Prop 289)
+{
+  id: '0xc153a898808654584a2276bfe9e8ba62aded4137-289',
+  proposal: { id: '289' },
+  voter: { id: '0xc153a898808654584a2276bfe9e8ba62aded4137' }
+}
+{
+  id: '0xc153a898808654584a2276bfe9e8ba62aded4137-409',
+  proposal: { id: '409' },
+  voter: { id: '0xc153a898808654584a2276bfe9e8ba62aded4137' }
+}
+
+Suspicious address found: 0xd9e8d24799fc9317513c0c0512f19cb60db6b040 (2 total votes, first vote WAS on Prop 289)
+{
+  id: '0xd9e8d24799fc9317513c0c0512f19cb60db6b040-289',
+  proposal: { id: '289' },
+  voter: { id: '0xd9e8d24799fc9317513c0c0512f19cb60db6b040' }
+}
+{
+  id: '0xd9e8d24799fc9317513c0c0512f19cb60db6b040-409',
+  proposal: { id: '409' },
+  voter: { id: '0xd9e8d24799fc9317513c0c0512f19cb60db6b040' }
+}
+
+Suspicious address found: 0xe89f1a18a17f0497ac2bd8627d48339d4d99bb56 (2 total votes, first vote WAS on Prop 289)
+{
+  id: '0xe89f1a18a17f0497ac2bd8627d48339d4d99bb56-289',
+  proposal: { id: '289' },
+  voter: { id: '0xe89f1a18a17f0497ac2bd8627d48339d4d99bb56' }
+}
+{
+  id: '0xe89f1a18a17f0497ac2bd8627d48339d4d99bb56-409',
+  proposal: { id: '409' },
+  voter: { id: '0xe89f1a18a17f0497ac2bd8627d48339d4d99bb56' }
+}
+
+Suspicious address found: 0x13691cff1092d704ec20e16036491c8805f6d22c (2 total votes, first vote WAS on Prop 289)
+{
+  id: '0x13691cff1092d704ec20e16036491c8805f6d22c-289',
+  proposal: { id: '289' },
+  voter: { id: '0x13691cff1092d704ec20e16036491c8805f6d22c' }
+}
+{
+  id: '0x13691cff1092d704ec20e16036491c8805f6d22c-409',
+  proposal: { id: '409' },
+  voter: { id: '0x13691cff1092d704ec20e16036491c8805f6d22c' }
+}
+
+Suspicious address found: 0xb3180769211598e172789e185067630da2b7ce1b (2 total votes, first vote WAS on Prop 289)
+{
+  id: '0xb3180769211598e172789e185067630da2b7ce1b-289',
+  proposal: { id: '289' },
+  voter: { id: '0xb3180769211598e172789e185067630da2b7ce1b' }
+}
+{
+  id: '0xb3180769211598e172789e185067630da2b7ce1b-409',
+  proposal: { id: '409' },
+  voter: { id: '0xb3180769211598e172789e185067630da2b7ce1b' }
+}
+
+Suspicious address found: 0x72c9812400528e04054eccd839e14c126fc13883 (1 total votes, first vote WAS on Prop 289)
+{
+  id: '0x72c9812400528e04054eccd839e14c126fc13883-289',
+  proposal: { id: '289' },
+  voter: { id: '0x72c9812400528e04054eccd839e14c126fc13883' }
+}
+
+Suspicious address found: 0x90bd4645882e865a1d94ab643017bd5ec2ae73be (2 total votes, first vote WAS on Prop 289)
+{
+  id: '0x90bd4645882e865a1d94ab643017bd5ec2ae73be-289',
+  proposal: { id: '289' },
+  voter: { id: '0x90bd4645882e865a1d94ab643017bd5ec2ae73be' }
+}
+{
+  id: '0x90bd4645882e865a1d94ab643017bd5ec2ae73be-409',
+  proposal: { id: '409' },
+  voter: { id: '0x90bd4645882e865a1d94ab643017bd5ec2ae73be' }
+}
+
+Suspicious address found: 0x3318552dec1881bfd43adfac65adee81cc6298bb (2 total votes, first vote WAS on Prop 289)
+{
+  id: '0x3318552dec1881bfd43adfac65adee81cc6298bb-289',
+  proposal: { id: '289' },
+  voter: { id: '0x3318552dec1881bfd43adfac65adee81cc6298bb' }
+}
+{
+  id: '0x3318552dec1881bfd43adfac65adee81cc6298bb-409',
+  proposal: { id: '409' },
+  voter: { id: '0x3318552dec1881bfd43adfac65adee81cc6298bb' }
+}
+
+Suspicious address found: 0x55c03907c62cf2884b795f216e7cd1dcb5e560bf (2 total votes, first vote WAS on Prop 289)
+{
+  id: '0x55c03907c62cf2884b795f216e7cd1dcb5e560bf-289',
+  proposal: { id: '289' },
+  voter: { id: '0x55c03907c62cf2884b795f216e7cd1dcb5e560bf' }
+}
+{
+  id: '0x55c03907c62cf2884b795f216e7cd1dcb5e560bf-409',
+  proposal: { id: '409' },
+  voter: { id: '0x55c03907c62cf2884b795f216e7cd1dcb5e560bf' }
+}
+
+Suspicious address found: 0xca4edba2cf8d23bc2ce8d62dde8832a3fcee7f02 (2 total votes, first vote WAS on Prop 289)
+{
+  id: '0xca4edba2cf8d23bc2ce8d62dde8832a3fcee7f02-289',
+  proposal: { id: '289' },
+  voter: { id: '0xca4edba2cf8d23bc2ce8d62dde8832a3fcee7f02' }
+}
+{
+  id: '0xca4edba2cf8d23bc2ce8d62dde8832a3fcee7f02-409',
+  proposal: { id: '409' },
+  voter: { id: '0xca4edba2cf8d23bc2ce8d62dde8832a3fcee7f02' }
+}
+
+Suspicious address found: 0x0b588bd4b60fb38daa5dc089ad3486b34f7700f8 (4 total votes, first vote WAS on Prop 289)
+{
+  id: '0x0b588bd4b60fb38daa5dc089ad3486b34f7700f8-289',
+  proposal: { id: '289' },
+  voter: { id: '0x0b588bd4b60fb38daa5dc089ad3486b34f7700f8' }
+}
+{
+  id: '0x0b588bd4b60fb38daa5dc089ad3486b34f7700f8-409',
+  proposal: { id: '409' },
+  voter: { id: '0x0b588bd4b60fb38daa5dc089ad3486b34f7700f8' }
+}
+{
+  id: '0x0b588bd4b60fb38daa5dc089ad3486b34f7700f8-453',
+  proposal: { id: '453' },
+  voter: { id: '0x0b588bd4b60fb38daa5dc089ad3486b34f7700f8' }
+}
+{
+  id: '0x0b588bd4b60fb38daa5dc089ad3486b34f7700f8-455',
+  proposal: { id: '455' },
+  voter: { id: '0x0b588bd4b60fb38daa5dc089ad3486b34f7700f8' }
+}
+
+Suspicious address found: 0x17d6dd6b29c639efca9d3ec2fe3848909c1b40d9 (2 total votes, first vote WAS on Prop 289)
+{
+  id: '0x17d6dd6b29c639efca9d3ec2fe3848909c1b40d9-289',
+  proposal: { id: '289' },
+  voter: { id: '0x17d6dd6b29c639efca9d3ec2fe3848909c1b40d9' }
+}
+{
+  id: '0x17d6dd6b29c639efca9d3ec2fe3848909c1b40d9-409',
+  proposal: { id: '409' },
+  voter: { id: '0x17d6dd6b29c639efca9d3ec2fe3848909c1b40d9' }
+}
+
+Checked 14 addresses, found 14 suspicious addresses.
